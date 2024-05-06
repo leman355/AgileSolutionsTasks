@@ -1,0 +1,8 @@
+C:\Users\user\source\AgileSolutions\AgileSolutionsTasks\bin\Debug\AgileSolutionsTasks.exe.config
+C:\Users\user\source\AgileSolutions\AgileSolutionsTasks\bin\Debug\AgileSolutionsTasks.exe
+C:\Users\user\source\AgileSolutions\AgileSolutionsTasks\bin\Debug\AgileSolutionsTasks.pdb
+C:\Users\user\source\AgileSolutions\AgileSolutionsTasks\obj\Debug\AgileSolutionsTasks.csproj.AssemblyReference.cache
+C:\Users\user\source\AgileSolutions\AgileSolutionsTasks\obj\Debug\AgileSolutionsTasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\AgileSolutions\AgileSolutionsTasks\obj\Debug\AgileSolutionsTasks.csproj.CoreCompileInputs.cache
+C:\Users\user\source\AgileSolutions\AgileSolutionsTasks\obj\Debug\AgileSolutionsTasks.exe
+C:\Users\user\source\AgileSolutions\AgileSolutionsTasks\obj\Debug\AgileSolutionsTasks.pdb
